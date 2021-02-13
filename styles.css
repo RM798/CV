@@ -1,0 +1,14 @@
+body{
+  background-color: #EAF6F6;
+}
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+.image{
+  border-radius: 100%;
+  height:200px;
+  width:300px;
+}
